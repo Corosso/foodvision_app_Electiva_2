@@ -33,7 +33,7 @@ python main.py
 
 Aparecerá un menú interactivo numerado con 11 opciones. El flujo recomendado es:
 
-1. **Cargar dataset** — por defecto busca `../restaurante_seleccionado.xlsx`, o puedes indicar otra ruta.
+1. **Cargar dataset** — por defecto busca `../restaurante.xlsx`, o puedes indicar otra ruta.
 2. **Mostrar dataset original** — primeras 10 filas y dimensiones.
 3. **Limpiar datos** — imputación de nulos, corrección de negativos/valores extremos, normalización de texto, eliminación de duplicados.
 4. **Transformar datos** — StandardScaler, Label Encoding y Feature Engineering. Muestra el dataset transformado.
