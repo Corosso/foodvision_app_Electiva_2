@@ -64,9 +64,7 @@ foodvision_app/
 ├── output/                # Gráficas generadas (PNG)
 ├── requirements.txt       # Dependencias
 ├── README.md              # Este archivo
-├── plan_partes_9_10.md    # Plan del proyecto (partes 9 y 10)
-├── Practica Final.docx    # Documento técnico completo
-└── Practica Final formato.docx  # Enunciado/formato del taller
+
 ```
 
 ## Notas
